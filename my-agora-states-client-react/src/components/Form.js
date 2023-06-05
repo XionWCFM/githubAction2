@@ -32,6 +32,7 @@ export const Form = ({ addDiscussion }) => {
         <div className="form__submit">
           <input type="submit" value="submit" />
         </div>
+        <div className="">어엄</div>
       </form>
     </section>
   );
